@@ -1,0 +1,15 @@
+{
+  "name": "feetfirst",
+  "version": "0.0.1",
+  "description": "A project to look after the care of toddlers feet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Alan & Dan",
+  "license": "ISC"
+}
